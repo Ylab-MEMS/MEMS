@@ -13,4 +13,4 @@ toc: true
 <!-- more -->
 
 
-前往[甬江实验室官网](https://www.ylab.ac.cn/)下载并安装. 
+光电MEMS中心隶属[甬江实验室](https://www.ylab.ac.cn/). 
