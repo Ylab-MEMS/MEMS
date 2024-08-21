@@ -4,7 +4,6 @@
 
 ### 致谢
 
-感谢 [Jekyll](https://www.jekyll.com.cn/) 提供的技术支持才能有这个博客。
 
-感谢 [lemonchann](https://github.com/lemonchann/)提供的原始模板，在其上进行博客的Post。
+感谢 [Arnold](https://arnold117.github.io/github_pages/)提供的原始模板，在其上进行博客的Post。
 
