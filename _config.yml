@@ -12,7 +12,7 @@ description: "成长历程"
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/Ylab-MEMS/MEMS.github.io/blob/main/images/2.png
+avatar: https://raw.githubusercontent.com/Ylab-MEMS/MEMS/main/images/2.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 # favicon: https://github.com/dotponder/dotponder.github.io/raw/master/images/1.ico
 favicon: https://raw.githubusercontent.com/Ylab-MEMS/MEMS/main/images/1.ico
